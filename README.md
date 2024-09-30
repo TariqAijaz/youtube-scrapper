@@ -1,1 +1,2 @@
-# youtube-scrapper
+# Scrapping Youtube - Python
+### This project involves developing a Python script that leverages the YouTube API to extract video details based on user-provided keywords. The script retrieves important information such as video title, channel name, upload date, view count, and video description. The data is then stored in a structured format, allowing for further analysis of video content trends and performance.
